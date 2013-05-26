@@ -1,4 +1,6 @@
 singleton
 =========
 
-Singleton refactoring techniques
+Singleton refactoring techniques: 
+
+1. Wrap the Singleton
