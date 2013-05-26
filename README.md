@@ -1,0 +1,4 @@
+singleton
+=========
+
+Singleton refactoring techniques
